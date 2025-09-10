@@ -63,7 +63,7 @@ Develop comprehensive policies and technical controls for managing USB devices a
 
 **Assignee**: [hamed3693699]
 **Reviewer**: IT Security Manager
-**Status**: Open
+**Status**: Completed
 
 ## 📅 Timeline
 
